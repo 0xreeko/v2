@@ -1,0 +1,108 @@
+{
+  "skills": [
+    { "title": "ReactJS", "icon": "React.jpg", "altText": "react-js" },
+    { "title": "TailwindCSS", "icon": "TailwindCSS.png", "altText": "tailwind-css" },
+    { "title": "Solidity", "icon": "Solidity.png", "altText": "solidity" },
+    { "title": "Moralis", "icon": "Moralis.png", "altText": "moralis" },
+    { "title": "Hardhat", "icon": "Solidity.png", "altText": "hardhat" },
+    { "title": "Ethers.js", "icon": "Solidity.png", "altText": "web-3" },
+    { "title": "Photoshop", "icon": "Photoshop.png", "altText": "photoshop" },
+    { "title": "Git", "icon": "Git.jpg", "altText": "git" }
+  ],
+  "projects": [
+    {
+        "title": "Amazon Clone",
+        "category": "Built with ReactJS, Stripe integration, and Firebase",
+        "image": "amazon-clone-edited.png",
+        "url": "https://clone-eca8e.web.app/"
+      },
+      {
+        "title": "YouTube Clone",
+        "category": "YouTube UI clone built with VueJS",
+        "image": "youtube-clone-edited.png",
+        "url": "https://fir-edde9.web.app/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Facebook clone built with React and CSS",
+        "image": "facebook-clone-edited.png",
+        "url": "https://facebook-clone-3449c.web.app"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "Responsive Hulu redesign clone built with use of the TMDB API",
+        "image": "hulu-clone.png",
+        "url": "https://hulu-f6317.web.app/"
+      },
+      {
+        "title": "Reactive Index",
+        "category": "Dynamic filtering/fetching from GNews API endpoint",
+        "image": "reactive-index.png",
+        "url": "https://reactive-index.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix clone with use of the TMDB API",
+        "image": "reflix.png",
+        "url": "https://reflixclone.web.app"
+      },
+      {
+        "title": "CryptoTrackr+",
+        "category": "Tracking the top 20 cryptos from CoinGecko API endpoint",
+        "image": "crypto-trackr.png",
+        "url": "https://crypto-trackrr.web.app"
+      },
+      {
+        "title": "Hyperchattr",
+        "category": "A clone of the Discord application",
+        "image": "hyperchattr.png",
+        "url": "https://hyperchattr.web.app"
+      },
+      {
+        "title": "Royale",
+        "category": "React & Redux, Sass and Stripe Integration",
+        "image": "royale.png",
+        "url": "https://portfolio-502fc.web.app/"
+      },
+      {
+        "title": "Tweetify",
+        "category": "A social app built with MERN & GraphQL",
+        "image": "tweetify.png",
+        "url": "https://github.com/enrict/tweetify"
+      },
+      {
+        "title": "Eyebrain",
+        "category": "Online store for streetwear brand",
+        "image": "eyebrain.png",
+        "url": "https://www.eyebrainclothing.com/"
+      },
+      {
+        "title": "Staking dApp",
+        "category": "Staking dApp with Solidity, React, and TailwindCSS",
+        "image": "stakingdapp.png",
+        "url": "https://github.com/enrict/stakingdapp"
+      },
+      {
+        "title": "Aquanux Token",
+        "category": "Ethereum-based token following the ERC20 token standard.",
+        "image": "aquanux.png",
+        "url": "https://github.com/enrict/aquanux-token"
+      },
+      {
+        "title": "KryptoDash",
+        "category": "Web3-based journal platform for trades.",
+        "image": "kryptodash.png",
+        "url": ""
+      },
+      {
+        "title": "Metaverse Slayer",
+        "category": "NFT turn-based mini-game on Rinkeby Testnet",
+        "image": "metaverseSlayer.png",
+        "url": "https://nft-game-starter-project.strikzplaydirty.repl.co/"
+      }
+  ],
+  "contact": [
+    {"platform": "Discord", "username": "0xreeko#1744"},
+    {"platform": "Twitter", "username": "0xreeko"}
+  ]
+}

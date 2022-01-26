@@ -1,11 +1,20 @@
 {
-  "name": "portfolio",
-  "version": "0.1.0",
+  "name": "portfolio-revamp",
+  "description": "Personal portfolio website redesign inspired by YT: Tailwind Collections video on a Windows 11 design with TailwindCSS, with Linux twist. The site is built with React, TailwindCSS, and Crypto.",
+  "startDate": "2022-01-02",
+  "endDate": "2022-01-03",
+  "authorSocial": "Twitter@0xreeko",
+  "author": "0xreeko",
+  "projectType": "Design",
+  "projectLink": "https://www.0xreeko.com",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
+    "@craco/craco": "^6.4.3",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "firebase": "^9.6.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
@@ -34,5 +43,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.5"
   }
 }
