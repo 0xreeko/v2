@@ -78,7 +78,7 @@ function App() {
       </div>
       <div className='flex min-h-full sm:min-h-0 flex-col-reverse py-6 lg:py-12 md:flex-grow'>
 
-        <div className="sidebar absolute bottom-0 md:top-[22%] right-1/4 md:right-auto md:bottom-auto flex w-auto sm:flex-col md:w-20  justify-center md:items-center bg-black bg-opacity-60 rounded-t-2xl md:rounded-tl-none md:rounded-r-2xl py-1 md:py-5">
+        <div className="sidebar absolute bottom-0 md:top-[12%] md:right-auto md:bottom-auto flex w-auto sm:flex-col md:w-20  justify-center md:items-center bg-black bg-opacity-60 rounded-t-2xl md:rounded-tl-none md:rounded-r-2xl py-1 md:py-5">
           <div className="sidebar">
             <div className="flex md:flex-col items-center md:space-y-6">
               {
